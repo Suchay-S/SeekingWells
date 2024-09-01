@@ -1,0 +1,32 @@
+#top-main{
+    background-image: linear-gradient( rgba(0,0,0,0.0),rgba(0,0,0,0.6), rgba(0,0,0,0.8)), url("Images/image2.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y:50%;
+}
+.nav-link{
+    color: white;
+}
+#left-stat{
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("Images/image4.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#middle-stat{
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url("Images/image6.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#right-stat{
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url("Images/image5.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 50%
+}
+#bottom{
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("Images/image2.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 50%;
+}
+
